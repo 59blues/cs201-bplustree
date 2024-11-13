@@ -6,7 +6,7 @@ UPDATE users age 28 id 1
 
 SELECT * FROM users
 
-DELETE FROM users WHERE id = 4 
+DELETE FROM users WHERE id = 1
 
 --------------------------------------
 
@@ -18,7 +18,7 @@ SELECT * FROM products
 
 UPDATE products price 90 id 1 
 
-DELETE from products where id = 2
+DELETE from products where id = 1
 
 -------------------------------------
 
