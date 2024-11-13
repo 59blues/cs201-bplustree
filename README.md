@@ -1,6 +1,6 @@
 CREATE TABLE users (id name age city)
 
-INSERT INTO users VALUES 2 john 25 newyork
+INSERT INTO users VALUES 1 john 25 newyork
 
 UPDATE users age 28 id 1 
 
